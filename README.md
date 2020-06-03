@@ -45,7 +45,7 @@ Kaggle에서는 IMDB 영화 사이트에서 제공하는 영화 리뷰에 대한
 
 ## 4. Results
 
-![image](training.png)
+![image](Training.png)
 
 |Hypothesis| Number Of Words |SVC | GNB |DT|RF |
 |---|---|---|---|---|---|
